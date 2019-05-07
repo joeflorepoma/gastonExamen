@@ -1,0 +1,161 @@
+# depslib dependency file v1.0
+1557204927 source:c:\users\gaston.f.romana\desktop\2do\libros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libros.h"
+	"validacionesUTN.h"
+	"autores.h"
+
+1557200542 source:c:\users\gaston.f.romana\desktop\2do\socios.c
+
+1557200772 source:c:\users\gaston.f.romana\desktop\2do\validacionesutn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+	"validacionesUTN.h"
+
+1557200772 c:\users\gaston.f.romana\desktop\2do\validacionesutn.h
+
+1557201773 source:c:\users\gaston.f.romana\desktop\2do\autores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"autores.h"
+	"validacionesUTN.h"
+
+1557204656 c:\users\gaston.f.romana\desktop\2do\autores.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1557204904 source:c:\users\gaston.f.romana\desktop\2do\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"validacionesUTN.h"
+	"autores.h"
+	"libros.h"
+
+1557206228 c:\users\gaston.f.romana\desktop\2do\libros.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1557207560 source:c:\users\jrm62\downloads\practica-2-master\2do\autores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"validacionesUTN.h"
+	"autores.h"
+	"libros.h"
+
+1557206474 c:\users\jrm62\downloads\practica-2-master\2do\autores.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+
+1557206474 c:\users\jrm62\downloads\practica-2-master\2do\validacionesutn.h
+
+1557207560 source:c:\users\jrm62\downloads\practica-2-master\2do\libros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"validacionesUTN.h"
+	"autores.h"
+	"libros.h"
+
+1557207466 c:\users\jrm62\downloads\practica-2-master\2do\libros.h
+
+1557206474 source:c:\users\jrm62\downloads\practica-2-master\2do\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"validacionesUTN.h"
+	"autores.h"
+	"libros.h"
+
+1557206474 source:c:\users\jrm62\downloads\practica-2-master\2do\socios.c
+
+1557206474 source:c:\users\jrm62\downloads\practica-2-master\2do\validacionesutn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+	"validacionesUTN.h"
+
+1557255795 source:c:\users\jrm62\desktop\practica-2-master\2do\libros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"validacionesUTN.h"
+	"autores.h"
+	"libros.h"
+
+1557206474 c:\users\jrm62\desktop\practica-2-master\2do\validacionesutn.h
+
+1557264993 c:\users\jrm62\desktop\practica-2-master\2do\autores.h
+
+1557207466 c:\users\jrm62\desktop\practica-2-master\2do\libros.h
+
+1557264350 source:c:\users\jrm62\desktop\practica-2-master\2do\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"validacionesUTN.h"
+	"autores.h"
+	"libros.h"
+	"socios.h"
+
+1557265378 source:c:\users\jrm62\desktop\practica-2-master\2do\socios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"validacionesUTN.h"
+	"autores.h"
+	"libros.h"
+	"socios.h"
+
+1557206474 source:c:\users\jrm62\desktop\practica-2-master\2do\validacionesutn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+	"validacionesUTN.h"
+
+1557265010 source:c:\users\jrm62\desktop\practica-2-master\2do\autores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"validacionesUTN.h"
+	"autores.h"
+	"libros.h"
+
+1557264313 c:\users\jrm62\desktop\practica-2-master\2do\socios.h
+
