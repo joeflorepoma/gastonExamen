@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1542047263 source:d:\programacion 2018\florespomajoseph1f\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"juego.h"
+	"validaciones.h"
+	"cliente.h"
+	"alquiler.h"
+
+1542022689 source:d:\programacion 2018\florespomajoseph1f\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+	"validaciones.h"
+
+1542022689 d:\programacion 2018\florespomajoseph1f\validaciones.h
+
+1542023147 source:d:\programacion 2018\florespomajoseph1f\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"juego.h"
+	"validaciones.h"
+
+1542023053 d:\programacion 2018\florespomajoseph1f\juego.h
+
+1542025282 source:d:\programacion 2018\florespomajoseph1f\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"cliente.h"
+	"validaciones.h"
+
+1542024948 d:\programacion 2018\florespomajoseph1f\cliente.h
+
+1542047224 source:d:\programacion 2018\florespomajoseph1f\alquiler.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"cliente.h"
+	"juego.h"
+	"validaciones.h"
+	"alquiler.h"
+
+1542051000 d:\programacion 2018\florespomajoseph1f\alquiler.h
+
+1542062833 source:c:\users\alumno\desktop\florespomajoseph1f\alquiler.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"cliente.h"
+	"juego.h"
+	"validaciones.h"
+	"alquiler.h"
+
+1542057346 c:\users\alumno\desktop\florespomajoseph1f\cliente.h
+
+1542062807 c:\users\alumno\desktop\florespomajoseph1f\juego.h
+
+1542057346 c:\users\alumno\desktop\florespomajoseph1f\validaciones.h
+
+1542062807 c:\users\alumno\desktop\florespomajoseph1f\alquiler.h
+
+1542057346 source:c:\users\alumno\desktop\florespomajoseph1f\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"cliente.h"
+	"validaciones.h"
+
+1542057346 source:c:\users\alumno\desktop\florespomajoseph1f\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"juego.h"
+	"validaciones.h"
+
+1542057346 source:c:\users\alumno\desktop\florespomajoseph1f\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+	"validaciones.h"
+
+1542062833 source:c:\users\alumno\desktop\florespomajoseph1f\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"juego.h"
+	"validaciones.h"
+	"cliente.h"
+	"alquiler.h"
+
