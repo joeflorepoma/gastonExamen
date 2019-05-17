@@ -1,0 +1,93 @@
+/*
+  ========================================
+  Primary header
+  ========================================
+*/
+
+.logo {	
+	padding:  10px 15px 12px 10px;
+  float: left;
+}
+
+.icono-email {
+background: white;  /* Fondo del icnono */
+box-sizing: border-box;
+width: 40px;  /* Alto del icono */
+height: 30px;  /* Ancho del icono */
+border: 1px solid #777;  /* Borde del icono */
+border-radius: 2px;
+box-shadow: 1px 1px 3px rgba(0,0,0,.095);  /* Sombra */
+position: relative;
+}
+.icono-email:before, .icono-email:after {
+content: "";
+width: 0;
+height: 0;
+position: absolute;
+top: 0;
+left: 0;
+}
+.icono-email:before {
+border: 19px solid transparent;
+border-top: 20px solid #777; /* Color igual a color de borde */
+}
+.icono-email:after {
+border: 18px solid transparent;
+border-top: 19px solid white;  /* Color igual a color de fondo */
+left:1px;
+}
+
+/*
+  ========================================
+  Leads
+  ========================================
+*/
+
+.lead {
+  text-align: center;
+}
+.lead p {
+  font-size: 18px;
+  line-height: 33px;
+}
+
+body {
+  color: #888;
+  font: 300 16px/22px "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1, h2, h3, h4 {
+  color: #000000;
+}
+
+h1 {
+  font-size: 36px;
+  line-height: 44px;
+}
+h2 {
+  font-size: 24px;
+  line-height: 44px;
+}
+h3 {
+  font-size: 21px;
+}
+h4 {
+  font-size: 18px;
+}
+
+h5 {
+  color: #a9b2b9;
+  font-size: 14px;
+  font-weight: 400;
+}
+.foot p {
+	text-align: center;
+}
+
+.speaker-info {
+  border: 1px solid #dfe2e5;
+  border-radius: 5px;
+  margin-top: 88px;
+  padding: 22px 0;
+  text-align: center;
+}
